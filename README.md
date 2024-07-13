@@ -1,2 +1,5 @@
 # Lista de compras
- sistema para criar e gerenciar  lista de compra 
+ Sistema para criar e gerenciar  lista de compra.
+ . Criar lista
+ . Criar histórico de compras
+ . Lembrete de produtos frequentes 
