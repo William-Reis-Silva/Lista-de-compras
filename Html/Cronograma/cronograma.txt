@@ -1,0 +1,76 @@
+Semana 1-2: Planejamento e Configuração Inicial
+Planejamento do Projeto:
+
+Definir os requisitos e funcionalidades do sistema.
+Criar wireframes e fluxos de usuário para a aplicação.
+Configuração do Firebase:
+
+Criar um projeto no Firebase.
+Configurar o Firestore para armazenamento de dados.
+Configurar Firebase Authentication para login com email/senha e redes sociais.
+Configuração do Ambiente de Desenvolvimento:
+
+Configurar o ambiente de desenvolvimento com as ferramentas necessárias (Node.js, npm, etc).
+Inicializar o projeto com HTML, CSS e JavaScript.
+Configurar o framework frontend (React, Vue, Angular, etc).
+Semana 3-4: Implementação do Cadastro e Autenticação de Usuários
+Implementação do Cadastro e Login:
+
+Implementar a funcionalidade de cadastro e login com email/senha.
+Implementar a autenticação via redes sociais (Google, Facebook).
+Proteção de Rotas:
+
+Proteger rotas que exigem autenticação.
+Implementar a funcionalidade de logout.
+Semana 5-6: Criação e Gerenciamento de Listas de Compras
+Criação de Listas de Compras:
+
+Implementar a funcionalidade de criação de múltiplas listas de compras.
+Implementar a funcionalidade de nomear listas.
+Gerenciamento de Itens nas Listas:
+
+Implementar a adição, edição e exclusão de itens nas listas.
+Implementar a interface de usuário para gerenciar as listas e itens.
+Semana 7-8: Compartilhamento de Listas e Controle de Permissões
+Compartilhamento de Listas:
+Implementar a funcionalidade de compartilhamento de listas com outros usuários.
+Implementar controle de permissões (visualização e edição).
+Semana 9-10: Implementação de Funcionalidades Diferenciadoras
+Sugestões Inteligentes:
+
+Implementar um sistema básico de sugestões baseadas em compras anteriores.
+Integrar sugestões sazonais (ex: receitas de Natal).
+Integração com Receitas:
+
+Permitir que os usuários adicionem receitas.
+Preencher automaticamente a lista de compras com os ingredientes das receitas.
+Semana 11-12: Organização por Categorias e Notificações
+Organização por Categorias:
+
+Implementar a organização de itens por categorias.
+Permitir a reordenação das categorias de acordo com a disposição do supermercado.
+Notificações e Lembretes:
+
+Implementar notificações para itens que estão acabando.
+Implementar notificações de promoções ou descontos.
+Semana 13-14: Integração com Leitores de Códigos de Barras e Histórico de Compras
+Integração com Leitores de Códigos de Barras:
+
+Implementar a funcionalidade de escanear códigos de barras para adicionar itens.
+Histórico de Compras e Estatísticas:
+
+Implementar a funcionalidade de manter um histórico de compras.
+Implementar a geração de estatísticas como gastos mensais e itens mais comprados.
+Semana 15-16: Implementação do Modo Offline e Testes Finais
+Modo Offline:
+
+Implementar a funcionalidade de acesso e edição de listas sem conexão à internet.
+Implementar a sincronização automática quando a conexão for restabelecida.
+Testes Finais e Ajustes:
+
+Realizar testes de usabilidade e correção de bugs.
+Ajustar a interface de usuário e otimizar o desempenho da aplicação.
+Semana 17: Lançamento e Feedback
+Lançamento da Aplicação:
+Publicar a aplicação.
+Coletar feedback dos usuários e realizar ajustes conforme necessário.
